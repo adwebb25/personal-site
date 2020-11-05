@@ -1,0 +1,43 @@
+body {
+    font-family: 'Comfortaa', cursive;
+
+}
+
+
+#title {
+    background-color: rgb(202, 187, 216);
+    color: rgb(66, 65, 65)
+}
+
+h1 {
+    size: 3rem;
+    font-weight: 600;
+    line-height: 4rem;
+    
+}
+
+.container-fluid {
+    padding: 3% 5%
+    
+
+}
+
+.adamWebbImage {
+    size: 50%;
+
+}
+
+
+
+/* nav bar */
+
+.navbar {
+    padding-bottom: 2.5rem;
+}
+
+.navbar-brand {
+    font-size: 3rem;
+    font-weight: bold;
+    font-family: 'lobster';
+
+}
